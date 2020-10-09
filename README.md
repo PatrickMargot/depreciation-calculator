@@ -1,8 +1,8 @@
 # Depreciation Calculator
 A depreciation calculator made for my IDPA pre-project.
 ### Built With
-* React
-* Material-UI
+* [React](https://reactjs.org/)
+* [Material-UI](https://material-ui.com/)
 ## Demo
 Check the life demo here: https://patrickmargot.github.io/depreciation-calculator/
 ## Installation
