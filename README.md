@@ -4,9 +4,9 @@ Try it out on https://patrickmargot.github.io/depreciation-calculator/.
 
 ## Installation
 Clone repository
-`git clone https://github.com/PatrickMargot/depreciation-calculator.git`
+```git clone https://github.com/PatrickMargot/depreciation-calculator.git```
 Move to project folder
-`cd depreciation-calculator`
+```cd depreciation-calculator```
 Install dependencies
 ```
 // npm
