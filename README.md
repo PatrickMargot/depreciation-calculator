@@ -1,10 +1,13 @@
 # Depreciation Calculator
 A depreciation calculator made for my IDPA pre-project.
+
 ### Built With
 * [React](https://reactjs.org/)
 * [Material-UI](https://material-ui.com/)
+
 ## Demo
 Check the live demo here: https://patrickmargot.github.io/depreciation-calculator/
+
 ## Installation
 1. Clone repository
 ```sh
@@ -24,5 +27,6 @@ npm start
 yarn install
 yarn start
 ```
+
 ## License
 This project is [MIT Licensed](https://choosealicense.com/licenses/mit/).
