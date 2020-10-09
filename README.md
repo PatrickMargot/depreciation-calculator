@@ -10,11 +10,15 @@ git clone https://github.com/PatrickMargot/depreciation-calculator.git
 // move to project folder
 cd depreciation-calculator
 
-// install dependencies
+// install dependencies and start
+//with npm
 npm install
-
-// run project
 npm start
+
+
+// with yarn
+yarn install
+yarn start
 ```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
