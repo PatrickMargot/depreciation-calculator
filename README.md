@@ -25,4 +25,4 @@ yarn install
 yarn start
 ```
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is [MIT Licensed](https://choosealicense.com/licenses/mit/).
