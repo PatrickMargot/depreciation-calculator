@@ -7,8 +7,12 @@ Try it out on https://patrickmargot.github.io/depreciation-calculator/.
 Clone project, then:
 
 ```bash
-yarn install
+// npm
+npm install
+npm start
 
+// yarn
+yarn install
 yarn start
 ```
 
