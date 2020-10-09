@@ -2,7 +2,7 @@
   "name": "depreciator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/PatrickMargot/depreciation-calculator",
+  "homepage": "https://patrickmargot.github.io/depreciation-calculator/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -14,7 +14,7 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
