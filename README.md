@@ -3,14 +3,16 @@ A depreciation calculator made for my IDPA pre-project with React and Material-U
 Try it out on https://patrickmargot.github.io/depreciation-calculator/.
 
 ## Installation
+1. Clone repository
 ```sh
-// clone repository
 git clone https://github.com/PatrickMargot/depreciation-calculator.git
-
-// move to project folder
+```
+2. Move to project folder
+```sh
 cd depreciation-calculator
-
-// install dependencies and start
+````
+3. Install dependencies and start
+```sh
 // with npm
 npm install
 npm start
