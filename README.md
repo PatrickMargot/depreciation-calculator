@@ -3,7 +3,7 @@ A depreciation calculator made for my IDPA pre-project with React and Material-U
 Try it out on https://patrickmargot.github.io/depreciation-calculator/.
 
 ## Installation
-```bash
+```sh
 // clone repository
 git clone https://github.com/PatrickMargot/depreciation-calculator.git
 
